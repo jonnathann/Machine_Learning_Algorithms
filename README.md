@@ -3,7 +3,4 @@ Performing some tests with traditional classification techniques in the Iris dat
 
 Requeriments:
 
-Python 3.7
-conda install tensorflow
-conda install keras
-pip install sklearn
+Python 3.7, conda install tensorflow, conda install keras and pip install sklearn
